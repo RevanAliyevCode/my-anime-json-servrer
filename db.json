@@ -1,0 +1,263 @@
+{
+  "animes": [
+    {
+      "id": "1",
+      "title": "Spirited Away",
+      "imdb_rating": "8.6",
+      "categories": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
+      "release_date": "2001-07-20",
+      "description": "Chihiro becomes trapped in a strange spirit world. With help from new friends, she must navigate challenges to return to her normal life."
+    },
+    {
+      "id": "2",
+      "title": "My Neighbor Totoro",
+      "description": "Sisters move to the countryside and discover a magical forest inhabited by spirits, including the lovable Totoro. Together, they embark on heartwarming adventures.",
+      "imdb_rating": 8.1,
+      "categories": [
+        "Fantasy",
+        "Family"
+      ],
+      "release_date": "1988-04-16",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Attack on Titan",
+      "imdb_rating": "9",
+      "categories": [
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBw7hV7aa2wVdL-lggddX_oBSbokJ0Kn-Fcg&s",
+      "release_date": "2013-04-07",
+      "description": "Humans, on the brink of extinction, fight against gigantic creatures called Titans. Eren, a determined soldier, vows to eliminate the Titans and uncover their secrets."
+    },
+    {
+      "id": "4",
+      "title": "Naruto",
+      "description": "Naruto Uzumaki, a mischievous ninja, dreams of becoming Hokage, the strongest ninja. His journey is filled with battles, friendships, and discovering his true identity.",
+      "imdb_rating": 8.3,
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "release_date": "2002-10-03",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "Brothers Edward and Alphonse Elric search for the Philosopher's Stone after a failed alchemy experiment costs them their bodies, facing tough enemies along the way.",
+      "imdb_rating": 9.1,
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "release_date": "2009-04-05",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDczZWMyMjEtZDI0ZS00YThjLWE2MjEtNTIxNmVmZDhkNDg5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "One Piece",
+      "description": "Luffy, a young pirate with the ability to stretch his body, sails the seas to find the legendary One Piece treasure and become Pirate King.",
+      "imdb_rating": 8.9,
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "release_date": "1999-10-20",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Your Name",
+      "description": "Two teenagers mysteriously swap bodies and experience each other's lives. As they try to meet, a connection beyond space and time is revealed.",
+      "imdb_rating": 8.4,
+      "categories": [
+        "Romance",
+        "Fantasy"
+      ],
+      "release_date": "2016-08-26",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyNzFjNzItZmQ1MC00NzhjLThmMzYtZjRhN2Y3MmM2OGQyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Demon Slayer",
+      "description": "After his family is slaughtered by demons, Tanjiro Kamado becomes a demon slayer, seeking revenge and a cure for his sister, who has become a demon.",
+      "imdb_rating": 8.7,
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "release_date": "2019-04-06",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ5Zjg2ZTYtMGZmNC00M2Y3LTgwZGQtYmQ3NWI5MDdhZWNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Death Note",
+      "description": "A high school student discovers a notebook with deadly powers. He uses it to eliminate criminals while being pursued by a mysterious detective known as L.",
+      "imdb_rating": 9,
+      "categories": [
+        "Thriller",
+        "Psychological",
+        "Supernatural"
+      ],
+      "release_date": "2006-10-03",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Cowboy Bebop",
+      "description": "A ragtag group of bounty hunters travels the solar system, chasing criminals while confronting their pasts. Spike Spiegel leads the crew in a jazzy, stylish future.",
+      "imdb_rating": 8.9,
+      "categories": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "release_date": "1998-04-03",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2VhZjk2MWMtZjc2OC00YzA4LWI0NzAtZGQ1YjVkOTk5YzVlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Stains;Gate",
+      "imdb_rating": "8.8",
+      "categories": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI1YjZiMDUtZTI3MC00YTA5LWIzMmMtZmQ0NTZiYWM4NTYwXkEyXkFqcGc@._V1_.jpg",
+      "release_date": "2011-02-08",
+      "description": "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans."
+    },
+    {
+      "id": 12,
+      "title": "Hunter x Hunter",
+      "imdb_rating": "9.0",
+      "categories": [
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYxOTlkYzctNGY2MC00MjNjLWIxOWMtY2QwYjcxZWIwMmEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "release_date": "2011-02-08",
+      "description": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends and his potential, he seeks out his father, who left him when he was younger."
+    }
+  ],
+  "catagories": [
+    {
+      "id": "1",
+      "name": "Action",
+      "item_id": [
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        11,
+        13,
+        13
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Adventure",
+      "item_id": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        12,
+        13,
+        13
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Fantasy",
+      "item_id": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        13,
+        13,
+        13
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Drama",
+      "item_id": [
+        3,
+        11,
+        13,
+        13,
+        13
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Family",
+      "item_id": [
+        2
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Romance",
+      "item_id": [
+        7
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Thriller",
+      "item_id": [
+        9
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Psychological",
+      "item_id": [
+        9
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Supernatural",
+      "item_id": [
+        9,
+        12
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Sci-Fi",
+      "item_id": [
+        10,
+        11,
+        13
+      ]
+    }
+  ]
+}
